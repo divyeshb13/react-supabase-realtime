@@ -7,6 +7,12 @@ A fully-featured financial management application built with **React**, **Supaba
 ![Supabase](https://img.shields.io/badge/Supabase-Realtime-orange)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-cyan)
 
+## 🌐 Live Demo
+
+**🚀 [View Live Demo](https://react-supabase-realtime.vercel.app/)**
+
+Try out the application with full real-time synchronization! Register an account and test all features including multi-tab sync.
+
 ---
 
 ## ✨ Features

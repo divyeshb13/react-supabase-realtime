@@ -25,9 +25,13 @@ Try out the application with full real-time synchronization!
 
 Watch the application in action with real-time synchronization across multiple browser tabs:
 
-[![Video Preview](https://img.shields.io/badge/▶️_Watch_Demo-purple?style=for-the-badge)](https://tinyurl.com/2bc3mwzy)
+https://github.com/user-attachments/assets/demo-video.mp4
 
-**Click above to watch:** Real-time transaction updates, multi-tab sync, and all features demonstrated!
+<video src="./demo-video.mp4" width="100%" controls>
+  Your browser does not support the video tag. <a href="./demo-video.mp4">Download the video</a>
+</video>
+
+**Features Demonstrated:** Real-time transaction updates, multi-tab synchronization, CRUD operations, and toast notifications!
 
 ---
 

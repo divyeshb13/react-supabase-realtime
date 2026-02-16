@@ -11,7 +11,23 @@ A fully-featured financial management application built with **React**, **Supaba
 
 **🚀 [View Live Demo](https://react-supabase-realtime.vercel.app/)**
 
-Try out the application with full real-time synchronization! Register an account and test all features including multi-tab sync.
+Try out the application with full real-time synchronization! 
+
+**Demo Credentials:**
+- **Email:** `supabaseuser@yopmail.com`
+- **Password:** `User@123`
+
+> 💡 **Note:** Demo credentials are intentionally public for testing purposes. Data may be reset periodically.
+
+---
+
+## 🎥 Video Preview
+
+Watch the application in action with real-time synchronization across multiple browser tabs:
+
+[![Video Preview](https://img.shields.io/badge/▶️_Watch_Demo-purple?style=for-the-badge)](https://tinyurl.com/2bc3mwzy)
+
+**Click above to watch:** Real-time transaction updates, multi-tab sync, and all features demonstrated!
 
 ---
 

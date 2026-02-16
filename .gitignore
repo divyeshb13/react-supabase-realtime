@@ -28,5 +28,3 @@ dist-ssr
 .env.local
 .env.production.local
 .env.development.local
-
-pnpm-lock.yaml

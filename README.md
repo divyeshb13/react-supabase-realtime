@@ -1,6 +1,6 @@
 # 💰 React + Supabase Real-time Financial Tracker
 
-A fully-featured financial management application built with **React**, **Supabase**, and **Tailwind CSS v4**. Features real-time data synchronization across multiple browser tabs/devices, authentication, and a modern dark mode UI.
+A fully-featured financial management application built with **React**, **Supabase**, and **Tailwind CSS v4**. Features real-time data synchronization across multiple browser tabs/devices, authentication, and a modern UI.
 
 ![Project Status](https://img.shields.io/badge/status-production--ready-green)
 ![React](https://img.shields.io/badge/React-18.3-blue)
@@ -23,15 +23,16 @@ Try out the application with full real-time synchronization!
 
 ## 🎥 Video Preview
 
-Watch the application in action with real-time synchronization across multiple browser tabs:
+▶ **Watch Demo Video:**  
+https://github.com/user-attachments/assets/e823ac9a-a98c-4974-b5ee-fa9b168ed508
 
-https://github.com/user-attachments/assets/demo-video.mp4
 
-<video src="./demo-video.mp4" width="100%" controls>
-  Your browser does not support the video tag. <a href="./demo-video.mp4">Download the video</a>
-</video>
 
-**Features Demonstrated:** Real-time transaction updates, multi-tab synchronization, CRUD operations, and toast notifications!
+**Features Demonstrated:** 
+- ✅ Real-time transaction updates
+- ✅ Multi-tab synchronization
+- ✅ CRUD operations (Create, Read, Update, Delete)
+- ✅ Toast notifications
 
 ---
 
@@ -62,7 +63,6 @@ https://github.com/user-attachments/assets/demo-video.mp4
 - 🔄 **Real-time synchronization**
 
 ### 🎨 UI/UX
-- 🌓 **Dark Mode Support**
 - 📱 **Fully Responsive** (Mobile, Tablet, Desktop)
 - 🎯 Modern gradient design
 - 🔔 Toast notifications for all actions
@@ -271,7 +271,6 @@ VITE_SUPABASE_ANON_KEY=your-anon-key-here
 - ✅ Real-time sync across multiple tabs
 - ✅ RLS policies preventing unauthorized access
 - ✅ Toast notifications on all actions
-- ✅ Dark mode toggle
 - ✅ Responsive design on mobile/tablet
 
 ---
